@@ -1,0 +1,5 @@
+*.o
+# files for coverage test
+*.gcov
+*.gcda
+*.gcno
