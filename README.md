@@ -16,7 +16,7 @@
   </p>
 </div>
 
-## :information_source:Information displayed by procfetch
+## :information_source:Information displayed by SysInfo
 #### Static characteristics
 
 * Host (User)
