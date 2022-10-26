@@ -39,21 +39,21 @@
 ## :arrow_down:Installation
 
 ```
-$ git clone https://github.com/Abhishek-thakur1/SysInfo.git
+ git clone https://github.com/Abhishek-thakur1/SysInfo.git
  ```
 
 ```
-$ cd SysInfo
+ cd SysInfo
 ```
 
 ```
-$ chmod +x install.sh
+ chmod +x install.sh
 ```
 ```
-$ ./install.sh
+ ./install.sh
 ```
 ```
-$ sudo chmod +x /usr/bin/sysInfo
+ sudo chmod +x /usr/bin/sysInfo
 ```
 <br/>
 
@@ -63,10 +63,10 @@ $ sudo chmod +x /usr/bin/sysInfo
 
 ## :x:Uninstallation
 ```
-$ chmod +x uninstall.sh
+ chmod +x uninstall.sh
 ```
 ```
-$ ./uninstall.sh
+ ./uninstall.sh
 ```
 
 
