@@ -16,7 +16,7 @@
   </p>
 </div>
 
-## Information displayed by procfetch
+## :information_source:Information displayed by procfetch
 #### Static characteristics
 
 * Host (User)
@@ -36,7 +36,7 @@
 * Uptime
 * Temperature
 
-## Installation
+## :arrow_down:Installation
 
 ```
 $ git clone https://github.com/Abhishek-thakur1/SysInfo.git
@@ -55,15 +55,19 @@ $ ./install.sh
 ```
 $ sudo chmod +x /usr/bin/sysInfo
 ```
-## Uninstallation
+<br/>
+
+#### After successful installation, when you enter `sysInfo` in terminal, it should look like this:point_down::point_down:
+
+![](./assets/ttf.png)
+
+## :x:Uninstallation
 ```
 $ chmod +x uninstall.sh
 ```
 ```
 $ ./uninstall.sh
 ```
-
-![](./assets/tty.gif)
 
 
 
